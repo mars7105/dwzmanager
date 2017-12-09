@@ -1,0 +1,2 @@
+# dwzmanager
+berechne deine dwz
